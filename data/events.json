@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Summer Music Fest",
+    "title": "Live Music & Food Trucks",
+    "description": "Join us for a night of live music, food trucks, and fun under the stars.",
+    "date": "2025-07-15",
+    "image": "https://images.squarespace-cdn.com/content/v1/5e2f345b8bfc32626e321229/c839bc06-b541-41a3-9933-f7e85b2359a8/Horse+Feathers+drone+shot.jpeg?format=1500w"
+  },
+  {
+    "name": "Art in the Park",
+    "title": "Local Artists & Workshops",
+    "description": "A weekend celebration of local artists, crafts, and creativity.",
+    "date": "2025-08-02",
+    "image": "https://www.naplesgov.com/sites/g/files/vyhlif11786/files/styles/full_node_primary_extra_wide/public/media/parksrec/image/94206/art-in-the-park.jpg?itok=Bs6peKXT"
+  },
+  {
+    "name": "Taste of Town",
+    "title": "Food Festival",
+    "description": "Sample dishes from the best local restaurants and food vendors.",
+    "date": "2025-09-10",
+    "image": "https://livability.com/wp-content/uploads/2017/07/3060916JWA1469horiz.jpg.webp"
+  },
+  {
+    "name": "Tech Expo",
+    "date": "2024-08-10",
+    "description": "A celebration of local artists.",
+    "image": "https://pctechmag.com/wp-content/uploads/2024/07/LegalTech-Expo.jpeg",
+    "photos": [
+      "https://images.stockcake.com/public/c/3/4/c349a7f9-4b10-48f2-ace4-7b081d341ad3_large/tech-expo-event-stockcake.jpg",
+      "https://pctechmag.com/wp-content/uploads/2024/07/LegalTech-Expo.jpeg",
+      "https://industechexpo.com/expo/wp-content/uploads/2024/01/DJI_0770-1536x864.jpg"
+    ]
+  },
+  {
+    "name": "Food Fiesta",
+    "date": "2024-07-01",
+    "description": "A delicious journey through local cuisine.",
+    "image": "https://www.naplesgov.com/sites/g/files/vyhlif11786/files/styles/full_node_primary_extra_wide/public/media/parksrec/image/94206/art-in-the-park.jpg?itok=Bs6peKXT",
+    "photos": [
+      "https://www.naplesgov.com/sites/g/files/vyhlif11786/files/styles/full_node_primary_extra_wide/public/media/parksrec/image/94206/art-in-the-park.jpg?itok=Bs6peKXT",
+      "https://images.squarespace-cdn.com/content/v1/5e2f345b8bfc32626e321229/c839bc06-b541-41a3-9933-f7e85b2359a8/Horse+Feathers+drone+shot.jpeg?format=1500w"
+    ]
+  }
+]
